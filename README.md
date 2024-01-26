@@ -5,12 +5,18 @@ Bootcamp https://www.dio.me/
 
 POO
 
-A orientação a objetos é uma forma de conexão entre o mundo real e virtual, a fim de nos possibilitar a construção de sistemas complexos baseados em objetos. Por meio dos quatros pilares (HEPA):
+A programação orientada a objetos (POO) é uma conexão entre o mundo real e virtual, permitindo a construção de sistemas complexos baseados em objetos. Este paradigma é fundamentado nos quatro pilares HEPA:
 
-Herança - herdar as características, que podem ou não serem reaproveitadas. 
+Herança (H)
+Herança é o mecanismo pelo qual uma classe pode herdar propriedades e comportamentos de outra classe. Isso proporciona a capacidade de reutilizar características existentes ou modificar conforme necessário.
 
-Encapsulamento - como acomposição de uma aspirina.
+Encapsulamento (E)
+Encapsulamento envolve a composição de dados e métodos em uma única unidade, uma classe. Esse conceito permite proteger a integridade dos dados, controlando o acesso e modificação apenas através dos métodos definidos na classe.
 
-Poliformismo - a união de várias formas, significados.
+Polimorfismo (P)
+Polimorfismo permite que um objeto seja tratado de diversas formas. Isso simplifica a interação com diferentes tipos de objetos, promovendo uma maior flexibilidade e modularidade no código.
 
-Abstração - o que pode ser abstraído em comum, e resolver por partes.
+Abstração (A)
+Abstração consiste na simplificação de complexidades, destacando apenas os aspectos relevantes de um objeto. Esse conceito permite modelar sistemas de forma mais compreensível, ignorando detalhes irrelevantes para a funcionalidade do sistema.
+
+Esses pilares são essenciais para a construção de sistemas robustos e modulares na programação orientada a objetos. Cada pilar contribui para a criação de código eficiente, reutilizável e compreensível.
